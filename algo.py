@@ -1,5 +1,2 @@
 def x():
-a=x 
-
-def y():
-a=y
+a=x
